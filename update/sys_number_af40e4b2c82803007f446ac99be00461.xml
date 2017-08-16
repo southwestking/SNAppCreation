@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_snc_car_hire_app_loaner_request">x_snc_car_hire_app_loaner_request</category>
+        <maximum_digits>6</maximum_digits>
+        <number>2000</number>
+        <prefix>LNR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-16 14:09:40</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>af40e4b2c82803007f446ac99be00461</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LNR</sys_name>
+        <sys_package display_value="Car hire app" source="x_snc_car_hire_app">c07b5072c82803007f446ac99be0047c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Car hire app">c07b5072c82803007f446ac99be0047c</sys_scope>
+        <sys_update_name>sys_number_af40e4b2c82803007f446ac99be00461</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-16 14:09:40</sys_updated_on>
+    </sys_number>
+</record_update>
